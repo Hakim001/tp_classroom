@@ -1,5 +1,5 @@
-ctivité 3
-j'aurais pu creer les deux ajax dans le même fichier. 
+/* 
+activité 3 du cours dynamiser vos sites web avec javasruipt.
 */
 
 var listeLienss = [
