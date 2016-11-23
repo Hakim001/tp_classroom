@@ -1,5 +1,5 @@
 
-n ajaxPost(url, data, callback, isJson) {
+function ajaxPost(url, data, callback, isJson) {
     
     var req = new XMLHttpRequest();
      
